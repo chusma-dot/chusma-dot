@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chusma-dot
-- 👀 I’m interested in trading, bots, scrapping, AI on matrx, Deep Learning
+- 👀 I’m interested in trading, bots, scrapping, AI on matrix, Deep Learning
 - 🌱 I’m currently learning Pyhton, M (Matlab), C#, JavaScript
 - 💞️ I’m looking to collaborate on different proyects
 - 📫 How to reach me on Twitter @chusmatarratas
